@@ -2,7 +2,7 @@
 layout: post
 title:  利用乙醯胺酚合成成甘素
 date:   2024-01-11 01:17:35 +0800
-image:  004.png
+image:  027.png
 tags:   Chemical,organic chemistry
 --- 
 ## 利用乙醯胺酚合成成甘素
