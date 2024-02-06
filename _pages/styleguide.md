@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 製備過的物質
+title: 實驗紀錄
 permalink: /styleguide/
 image: 019.png
 ---
