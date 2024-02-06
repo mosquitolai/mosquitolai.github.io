@@ -2,24 +2,17 @@
 layout: page
 title: 自我介紹
 permalink: /自我介紹/
-image: 01.jpg
+image: 024.png
 ---
 
-Hi, my name is 子文. 我喜歡做實驗
-***
+## 一. 個人資料與人格特質
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+我是賴子文，出生於2005年7月27日，這一天對我來說標誌著一個全新的開始。我居住在桃園市龍潭區，家庭一直是我成長的溫暖港灣，有一對支持和愛護我的父母，以及一位可愛的妹妹。父母總是以身作則，教導我誠實、勤勞和善良等重要價值觀，這對我日後的成長影響深遠。在我國小三年級前，我都是給阿公阿嬤照顧的，我阿公阿嬤對我的照顧無微不至，這也造就了日後我愛照顧人的性格；而我的父母在我成長過程中扮演了重要的角色，他們支持我的各種興趣，讓我得以在化學跟機械領域有良好的發展；我為人和善、樂觀開朗，我喜歡在別人有困難時去幫助他們，因為父母教導我助人為快樂之本，要常常施樂好善，幫助別人；但我因為個性內向在與人交流時時常口吃，我認為這是需要去改進的地方。
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+## 二. 重要的學經歷
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+我國小就讀桃園市立雙龍國民小學，國中就讀龍潭市立龍潭國中，高中就讀桃園市立平鎮高級中學，而大學就讀中國文化大學；說來慚愧，我在國小時幾乎沒有認真讀書過，到了國中我才逐漸意識到讀書的重要性，開始對物理跟化學產生濃厚的興趣。國中會考時我考到了平鎮高中，這是我從未想像過的，因為我的成績不盡理想。但經過國中刻苦勤學後我取得了對我來說還算不錯的成績。大學就讀後，我自覺自己雖然在學測時考差了，但不能讓自己再這麼差下去，所以我非常認真地在讀書。到了大學後，我希望我可以用自己自律的讀書換來更好的學習環境與未來。
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+## 三. 個人興趣
 
-#### La croix you probably...
-<small>1995 - 2000</small>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+我平常的興趣是研究一些化學實驗，在實驗的過程中我可以了解到化學反應的機制，也在過程中了解到實驗安全的重要。每一條實驗安全守則都是先人用生命和自身的安危為後人換來的。在實驗操作時我們應該謹記先人的警告，並且用感恩和謹慎的態度來做每一次的實驗。這培養了我謹慎且專注的個性。也因為這個興趣，我結交了一群志同道合的朋友，我們常互相討論各種化學反應，並思考如何優化化學反應的過程，讓反應更安全且低成本。
