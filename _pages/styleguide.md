@@ -9,85 +9,53 @@ image: 019.png
 
 ***
 
-### Headings by default:
+### 2024
+- 提取綜合B群裡的維生素B3
+- 製備谷氨酸
+- 製備醋酸銅
+- 製備水楊酸銅
+- 製備無水乙醇
+- 製備碘乙烷
+- 安息香縮合實驗
+- 醛酮縮合-二亞苄基丙酮
+- 重氮鹽反應實驗
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+### 2023
+- 提取藥錠中的乙醯胺酚
+- 利用複分解反應製將氯酸鈉轉換成氯酸鉀
+- 水解黃豆製備谷氨酸鈉
+- 製備三氯化鐵來做三氯化鐵檢測
+- 利用培養皿做三氯叔丁醇殺菌能力測試
+- 製備檸檬酸三鈉
+- 從布洛芬藥丸中提取純布洛芬
+- 利用氧化還原滴定的原理，測定次氯酸水有效氯含量(ppm)
+- 製備檸檬酸鈉/鈣
+- 碘仿反應
+- 培養氯化鈉立方晶體
+- 大學普化實驗
+- 鹼式碳酸銅製備
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
+### 2022
+- 利用鹼催化將廢棄食用油轉化成生質柴油
+- 利用丙酮路線製備氯仿
+- 提取藥膏中的吲哚美辛
+- 利用鹼水解和酸水解將阿斯匹靈水解成水楊酸
+- 製備次氯酸鈣
+- 製備三氯叔丁醇
+- 利用次氯酸鈉製備氯酸鈉
+- 提取咖啡中的咖啡因
 
-***
+### 2021
+- 製作電磁流體
+- 從電路板中分離出黃金
+- 碘的氧化還原
+- 麥克筆顏料色層分析
+- 用乙醇路線製備氯仿
+- 從橘子皮中提取出右旋檸檬烯
+- 從碘酒中提取碘單質
 
-### Lists
+### 2020
+- 菠菜色素色層分析
 
-#### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Quotes
-
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
-
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-***
-
-### Images
-
-![]({{site.baseurl}}/images/09.jpg)
-*Backyard*
-
-***
+### 2019
+- 電解氯化鈉水溶液製備次氯酸鈉

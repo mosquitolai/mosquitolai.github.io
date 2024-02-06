@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 製備谷氨酸
-date:   2022-06-30 10:17:35 +0800
+date:   2024-01-18 11:48:00 +0800
 image:  021.png
 tags:   Chemical,inorganic chemistry
 ---
