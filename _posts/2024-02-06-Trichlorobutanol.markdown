@@ -2,7 +2,7 @@
 layout: post
 title:  製備三氯叔丁醇
 date:   2022-06-30 10:17:35 +0800
-image:  014.png
+image:  015.png
 tags:   Chemical,organic chemistry
 ---
 # 三氯叔丁醇
