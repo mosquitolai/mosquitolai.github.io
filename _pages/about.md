@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 自我介紹
-permalink: /自我介紹/
+permalink: /about/
 image: 024.png
 ---
 
