@@ -1,26 +1,43 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-05-29 18:05:55 +0300
+title:  實驗：製備氫氧化鈣
+date:   2023-08-20 18:05:55 +0300
 image:  10.jpg
 tags:   Jekyll
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Y# 實驗：製備氫氧化鈣
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 反應式
+2NaOH + CaCl2 → Ca(OH)2 + 2NaCl
 
-Jekyll also offers powerful support for code snippets:
+## 分子量
+- NaOH: 40 g/mol
+- CaCl2: 111 g/mol
+- Ca(OH)2: 74 g/mol
+- NaCl: 58.4 g/mol
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## 劑量
+- NaOH: 20 g
+- CaCl2: 55.5 g
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## 理論產量
+- Ca(OH)2: 37 g
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## 反應原理
+複分解反應
+
+## 實驗過程
+1. 調配1M氫氧化鈉溶液
+   - 方法：在50mL水中溶解20g氫氧化鈉
+2. 調配1M氯化鈣溶液
+   - 方法：在50mL水中溶解55.5g氯化鈣
+3. 將氯化鈣溶液緩慢加入氫氧化鈉溶液中並攪拌
+4. 等待氫氧化鈣沈澱
+5. 利用傾析將水倒出來
+6. 等待氫氧化鈣乾燥
+7. 秤量氫氧化鈣質量，計算產率
+
+## 注意事項
+1. 氫氧化鈉具有腐蝕性
+2. 氫氧化鈣為強鹼，處理乾燥狀態氫氧化鈣時要戴口罩
+3. 氫氧化鈉、氯化鈣溶解時為放熱反應
