@@ -5,6 +5,7 @@ date:   2023-06-03 16:36:35 +0300
 image:  013.png
 tags:   Chemical
 ---
+![Alt text](./images/001.png)
 ## 酒精蒸餾實驗（乙醇）
 
 ### 基本性質：
