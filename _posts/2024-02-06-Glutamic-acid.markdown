@@ -29,7 +29,8 @@ tags:   Chemical,inorganic chemistry
 4. 抽濾晶體並用冰水洗滌數次。
 5. 將晶體放入乾燥皿乾燥後收集。
 
-### 影片連結:https://youtu.be/ZhGbxq2myn4?si=-DPB_nVGul9IJScf
+### 影片連結
+- https://youtu.be/ZhGbxq2myn4?si=-DPB_nVGul9IJScf
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZhGbxq2myn4" frameborder="0" allowfullscreen></iframe>
 
 
