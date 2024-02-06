@@ -1,26 +1,24 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
+title: mosquitolai實驗記錄
+logo: 001.png # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 001.png
+  name: mosquitolai實驗
+  image: IMG_1.jpg
   say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
   bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+facebook: https://www.facebook.com/profile.php?id=100014993859395 # Add your Facebook handle
+instagram: https://www.instagram.com/mosquitolai2005?igsh=a3RoMGNoemd0bHU5&utm_source=qr # Add your Instagram handle
+youtube: https://youtube.com/@lilin-315?si=NelEfHeYnwgvNlMx # Add your Pinterest handle
 
 
 #-------------------------------
