@@ -28,3 +28,6 @@ tags:   Chemical,inorganic chemistry
 3. 靜置等待溶液降溫，谷氨酸會因溶解度降低而析出。
 4. 抽濾晶體並用冰水洗滌數次。
 5. 將晶體放入乾燥皿乾燥後收集。
+
+<iframe width="560" height="315" src="https://youtu.be/ZhGbxq2myn4?si=Q3svkxBYwMM_fuWo" frameborder="0" allowfullscreen></iframe>
+
