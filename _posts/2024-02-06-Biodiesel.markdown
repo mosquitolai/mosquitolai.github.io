@@ -34,5 +34,6 @@ tags:   Chemical,organic chemistry
 - 甲醇為易爆易燃物質，操作時要遠離火源。
 - 工業上常先用醋酸中和生質柴油再用溫水水洗，因醋酸中和氫氧化鈉產生鹽類，使肥皂析出，方便後續分離。
 - 同離子效應：在溶液中加入與溶解固體相同的離子時，固體溶解度小於溶於純水的情形。
-rame>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embedpI_Rdc993TI?si=NdZFh4KXlEPnc7pQ/"frameborder="0"allowfullscreen><iframe>
