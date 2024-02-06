@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: 製備過的物質
 permalink: /styleguide/
 image: 08.jpg
 ---
