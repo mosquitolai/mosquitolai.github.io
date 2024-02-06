@@ -2,7 +2,7 @@
 layout: post
 title:  實驗：製備氫氧化鈣
 date:   2023-08-20 18:05:55 +0300
-image:  10.jpg
+image:  012.png
 tags:   Jekyll
 ---
 # 實驗：製備氫氧化鈣
