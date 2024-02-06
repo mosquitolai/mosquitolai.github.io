@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  My First Blog
-date:   2024-01-25 23:17:35 +0800
+title:  製備三氯叔丁醇
+date:   2022-06-30 10:17:35 +0800
 image:  014.png
 tags:   Chemical,organic chemistry
 ---
