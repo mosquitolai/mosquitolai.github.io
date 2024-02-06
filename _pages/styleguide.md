@@ -5,7 +5,7 @@ permalink: /styleguide/
 image: 08.jpg
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+<center>"從2021年至今，我已經進行了許多實驗，包括無機、有機實驗以及滴定分析。這些實驗讓我有了實際的操作經驗，從中學習了許多化學反應的機制。"</center>
 
 ***
 
