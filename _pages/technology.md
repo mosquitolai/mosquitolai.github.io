@@ -2,7 +2,7 @@
 layout: page
 title: 關於網站
 permalink: /technology/
-image: 019.png
+image: 028.png
 ---
 
 <center>"Those who can imagine anything, can create the impossible.”– Alan Turing, Computer Scientist</center>
