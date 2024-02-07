@@ -19,7 +19,7 @@ html、css、javascript、ruby
 利用jekyll架構將markdown轉成網頁並透過git,github將網站push上gitpage讓用戶能夠進入網站。
 
 #### <strong>技術支援</strong>：
-[LinkedIn](https://www.linkedin.com/in/gs-lin-a4b10a2a7/)
+[LinkedIn:林冠勳 先生](https://www.linkedin.com/in/gs-lin-a4b10a2a7/)
 
 
 
