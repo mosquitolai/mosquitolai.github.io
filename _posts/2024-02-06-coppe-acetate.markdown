@@ -3,7 +3,7 @@ layout: post
 title:  製備醋酸銅
 date:   2024-01-05 10:17:35 +0800
 image:  029.png
-tags:   Chemical,organic chemistry
+tags:   Chemical
 ---
 ## 醋酸銅
 
