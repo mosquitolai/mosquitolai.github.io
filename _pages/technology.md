@@ -17,7 +17,7 @@ Jekyll
 HTML、CSS、JavaScript、Ruby、Node.js
 
 #### <strong>運作原理</strong>
-利用Jekyll架構將Markdown轉成網頁並透過Git,Hithub將網站Push上Gitpage讓用戶能夠進入網站。
+利用Jekyll架構將Markdown轉成網頁並透過Git,Github將網站Push上Gitpage讓用戶能夠進入網站。
 
 #### <strong>技術支援</strong>
 LinkedIn:[林冠勳 先生](https://www.linkedin.com/in/gs-lin-a4b10a2a7/)
