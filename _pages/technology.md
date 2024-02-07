@@ -13,12 +13,12 @@ image: 028.png
 #### <strong>網站生成工具</strong>:
 jekyll 
 #### <strong>程式語言</strong>:
-html、css、javascript、ruby
+html、css、javascript、ruby、Node.js
 
 #### <strong>運作原理</strong>:
 利用jekyll架構將markdown轉成網頁並透過git,github將網站push上gitpage讓用戶能夠進入網站。
 
-#### <strong>技術支援</strong>：
+#### <strong>技術支援</strong>:
 LinkedIn:[林冠勳 先生](https://www.linkedin.com/in/gs-lin-a4b10a2a7/)
 
 
