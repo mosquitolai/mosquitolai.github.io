@@ -5,7 +5,9 @@ permalink: /technology/
 image: 019.png
 ---
 
-<center>"從2021年至今，我已經進行了許多實驗，包括無機、有機實驗以及滴定分析。這些實驗讓我有了實際的操作經驗，從中學習了許多化學反應的機制。"</center>
+- <center>"Those who can imagine anything, can create the impossible.”– Alan Turing, Computer Scientist</center>
+- <center>「能夠想像任何事的人，可以創造不可能。」– 艾倫·圖靈 (電腦科學家)"</center>
+
 
 ***
 
