@@ -11,7 +11,7 @@ image: 028.png
 
 ***
 #### <strong>網站生成工具</strong>
-Jekyll [(什麼是Jekyll?)](https://jekyllrb.com/)
+Jekyll ([什麼是Jekyll?](https://jekyllrb.com/))
 
 #### <strong>程式語言</strong>
 HTML、CSS、JavaScript、Ruby、Node.js
