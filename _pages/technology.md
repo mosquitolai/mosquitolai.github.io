@@ -10,17 +10,17 @@ image: 028.png
 
 
 ***
-- <strong>網站生成工具</strong>:jekyll 
-#### 特色
+#### <strong>網站生成工具</strong>:jekyll 
+<strong>特色</strong>
 1. No more databases
 2. Liquid Template
 3. Free hosting with GitHub Pages
 4. Markdown easy to write
 
-- <strong>程式語言</strong>:html、css、javascript、ruby
+#### <strong>程式語言</strong>:html、css、javascript、ruby
 
-- <strong>運作原理</strong>:利用jekyll架構將markdown轉成網頁並透過git,github將網站push上gitpage讓users能夠進入網站。
+#### <strong>運作原理</strong>:利用jekyll架構將markdown轉成網頁並透過git,github將網站push上gitpage讓users能夠進入網站。
 
-- <strong>技術支援</strong>：https://www.linkedin.com/in/gs-lin-a4b10a2a7/
+#### <strong>技術支援</strong>：https://www.linkedin.com/in/gs-lin-a4b10a2a7/
 
 
